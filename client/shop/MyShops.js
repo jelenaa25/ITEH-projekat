@@ -20,7 +20,7 @@ import DeleteShop from './DeleteShop'
 
 const useStyles = makeStyles(theme => ({
   root: theme.mixins.gutters({
-    maxWidth: 600,
+    maxWidth: 590,
     margin: 'auto',
     padding: theme.spacing(3),
     marginTop: theme.spacing(5)
